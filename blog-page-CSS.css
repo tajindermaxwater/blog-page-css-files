@@ -5,7 +5,7 @@ li {list-style-type: none;}
 
 .allBlogElements {display: grid; grid-template-columns: auto auto;}
 /* .allBlogElements li img {width: 540px;height: 280px;} */
-.dateandReadMore {display: flex; align-items: center;justify-content: space-between;}
+.dateandReadMore {display: flex; align-items: baseline;justify-content: space-between;}
 
 h3 { font-family: 'Roboto', sans-serif; font-weight: 500;font-size: 19px;}
 
