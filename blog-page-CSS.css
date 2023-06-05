@@ -1,0 +1,12 @@
+* {margin: 0; padding: 0;box-sizing: border-box;}
+li {list-style-type: none;}
+.containerFluid {width: 100%;}
+.blogElements {width: 90%;margin: 0 auto;}
+
+.allBlogElements {display: grid; grid-template-columns: auto auto;}
+/* .allBlogElements li img {width: 540px;height: 280px;} */
+.dateandReadMore {display: flex; align-items: center;justify-content: space-between;}
+
+h3 { font-family: 'Roboto', sans-serif; font-weight: 500;font-size: 19px;}
+
+.testclassA {width: 62%;}
