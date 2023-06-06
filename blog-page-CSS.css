@@ -6,6 +6,11 @@
 
 li {
     list-style-type: none;
+      transition: box-shadow 0.3s ease;
+}
+
+li:hover {
+    box-shadow: 0px 15px 15px rgba(214, 214, 214, 0.51);
 }
 
 .containerFluid {
