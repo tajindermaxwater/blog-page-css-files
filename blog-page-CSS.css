@@ -28,7 +28,7 @@ li {
     align-items: baseline;
     justify-content: space-between;
     margin-bottom: 20px;
-    padding: 5px;
+  
 }
 
 h3 {
@@ -37,14 +37,14 @@ h3 {
     font-weight: 500;
     font-size: 19px;
     margin-bottom: 5px;
-    padding: 5px;
+   
 }
 
 .testclassA {
-    /* width: 94%; */
+    /* width: 94%;
 
     width: 540px;
-    margin: 0 auto;
+    margin: 0 auto; */
    
 }
 
@@ -68,13 +68,15 @@ p{
     font-weight: 400;
     font-size: 15px;
     margin-bottom: 1px;
-    padding: 5px;
+   
 }
 
 .blogContent {
-    width: 100%;
+ /* width: 100%; */
+    width: 540px;
+    margin: 0 auto;
 }
 
 .blogContentA {
-   padding: 0 5px;
+   padding: 0 10px;
 }
