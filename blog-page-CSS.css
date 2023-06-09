@@ -89,3 +89,40 @@ p{
 .blogContentA {
    padding: 0 10px;
 }
+
+
+/* Small mobile devices */
+@media only screen and (max-width: 480px) {
+    .allBlogElements {
+        grid-template-columns: auto;
+    }
+ 
+    .blogContent {
+       width: 325px;
+}
+}
+
+/* Medium-sized mobile devices */
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+    .allBlogElements {
+        grid-template-columns: auto;
+    }
+ 
+    .blogContent {
+       width: 350px;
+}
+}
+
+/* Large mobile devices */
+@media only screen and (min-width: 768px) and (max-width: 1050px) {
+    .allBlogElements {
+        grid-template-columns: auto;
+    }
+ 
+    .blogContent {
+       width: 540px;
+}
+
+
+}
+
