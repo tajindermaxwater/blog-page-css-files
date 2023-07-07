@@ -25,6 +25,7 @@ li {
 .allBlogElements {
     display: grid;
     grid-template-columns: auto auto;
+    gap: 18px;
 }
 
 /* .allBlogElements li img {width: 540px;height: 280px;} */
