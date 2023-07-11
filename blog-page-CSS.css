@@ -123,7 +123,15 @@ p{
     .blogContent {
        width: 540px;
 }
-
-
 }
+
+@media only screen and (min-width: 1051px) and (max-width: 1250px) {
+    .allBlogElements {
+        grid-template-columns: auto;
+    }
+ 
+    .blogContent {
+       width: 540px;
+}
+
 
