@@ -119,11 +119,21 @@ p{
 }
 
 .blog1-aboutsection-content p {
-    font-size: 15px;
+    font-size: 12px;
     color: #616161;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
 }
+
+.blog1-aboutsection{
+    margin-top: 15px;
+}
+
+.blog1-aboutsection-image img{
+    width: 350px;
+    height: 350px;
+}
+ 
 
 /* Small mobile devices */
 @media only screen and (max-width: 480px) {
