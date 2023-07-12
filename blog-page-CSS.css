@@ -148,6 +148,12 @@ p{
     font-weight: 400;
 }
 
+.blog1-contaminant-rejection img {
+    width: 800px;
+    margin-top: 20px;
+}
+
+
 /* Small mobile devices */
 @media only screen and (max-width: 480px) {
     .allBlogElements {
