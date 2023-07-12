@@ -131,7 +131,7 @@ p{
 }
 
 .blog1-rejection-rate img{
-    /* width: 870px; */
+     max-width: 100%;
 }
 
 .blog1-rejection-rate h3 {
