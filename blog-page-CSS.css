@@ -91,6 +91,23 @@ p{
    padding: 0 10px;
 }
 
+.blog1-containerFluid{
+    width: 70%;
+}
+
+.blog1-containner{
+    width: 70%;
+}
+
+
+.blog1-aboutsection{
+    display: flex;
+    align-items: flex-start;;
+    justify-content: center;
+}
+
+
+
 
 /* Small mobile devices */
 @media only screen and (max-width: 480px) {
