@@ -149,7 +149,7 @@ p{
 }
 
 .blog1-contaminant-rejection img {
-    /* width: 870px; */
+    max-width: 100%;
     margin-top: 20px;
 }
 
