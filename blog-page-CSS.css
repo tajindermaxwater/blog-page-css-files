@@ -106,8 +106,9 @@ p{
 
 .blog1-aboutsection{
     display: flex;
-    align-items: flex-start;;
+    align-items: flex-start;
     justify-content: center;
+     gap: 15px;
 }
 
 .blog1-aboutsection-content h3 {
