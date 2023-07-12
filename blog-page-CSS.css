@@ -133,7 +133,24 @@ p{
     width: 350px;
     height: 350px;
 }
- 
+
+.blog1-rejection-rate img{
+    width: 870px;
+}
+
+.blog1-rejection-rate h3 {
+    font-size: 18px;
+    color: #333333;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.blog1-rejection-rate p{
+    font-size: 15px;
+    color: #616161;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
 
 /* Small mobile devices */
 @media only screen and (max-width: 480px) {
