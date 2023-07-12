@@ -110,7 +110,19 @@ p{
     justify-content: center;
 }
 
+.blog1-aboutsection-content h3 {
+    font-size: 18px;
+    color: #333333;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
 
+.blog1-aboutsection-content p {
+    font-size: 15px;
+    color: #616161;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
 
 /* Small mobile devices */
 @media only screen and (max-width: 480px) {
