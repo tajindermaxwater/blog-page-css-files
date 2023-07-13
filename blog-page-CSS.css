@@ -258,7 +258,7 @@ p{
 
 .blog1-product-section-ul {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto auto;
 }
 
 
