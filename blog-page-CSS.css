@@ -94,13 +94,10 @@ p{
 .blog1-containerFluid{
     max-width: 100%;
 }
-
 .blog1-containner{
     max-width: 100%;
     font-family: 'Roboto', sans-serif;
 }
-
-
 .blog1-aboutsection{
     display: flex;
     align-items: flex-start;
