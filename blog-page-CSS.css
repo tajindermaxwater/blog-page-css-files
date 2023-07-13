@@ -230,6 +230,7 @@ p{
     
   }
 
+
 .blog1-custom-ro {
     display: flex;
     align-items: center;
@@ -240,9 +241,21 @@ p{
     border-radius: 5px;
     
 }
+.blog1-custom-ro-content {
+    flex: 2;
+}
+
+.blog1-custom-button{
+    flex: 1;
+}
  
 .blog1-custom-ro h3 {
     color: #FFFFFF;
+    padding: 0;
+}
+.blog1-custom-ro p {
+    color: #FFFFFF;
+    padding: 0;
 }
 
 .blog1-custom-ro .blog1-custom-button button{
