@@ -153,6 +153,117 @@ p{
     margin-top: 20px;
 }
 
+.blog1-steps-to-select-ro h3 {
+    font-size: 18px;
+    color: #333333;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.blog1-steps-to-select-ro  p{
+    font-size: 15px;
+    color: #616161;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.blog1-note {
+    background-color: #FFECED;
+    padding: 7px 15px ;
+    margin-bottom: 15px;
+  
+  }
+  .blog1-note .blog1-note1{
+    font-size: 15px;
+    font-weight: 500;
+    color:#EC1C24; 
+  }
+  
+ .blog1-note .blog1-note2{
+    color: #616161;
+    font-size: 15px;
+    font-weight: 400;
+  }
+
+  .blog1-content-section{
+    max-width: 100%;
+  }
+
+  .blog1-content-section p {
+    font-size: 15px;
+    color: #616161;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+  }
+
+  .blog1-content-section h3 {
+    font-size: 18px;
+    color: #333333;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    
+  }
+
+  .blog1-content-section hr {
+    margin: 15px 0px;
+  }
+
+ .blog1-li-section ul li::before {
+    content: "•"; /* Add your desired bullet point symbol */
+    color: #6BB4FD; /* Set the color to your desired value */
+    display: inline-block;
+    width: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+
+  .blog1-li-section ul li {
+    margin-bottom: 15px;
+  }
+
+  .blog1-table-section{
+    margin: 15px 0;
+  }
+ .blog1-table-section th, td {
+    padding: 5px 10px;
+    
+  }
+
+.blog1-custom-ro {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;;
+    background-color:#0074D9;
+    padding: 20px 0;
+    border: 0;
+    border-radius: 5px;
+    
+}
+ 
+.blog1-custom-ro h3 {
+    color: #FFFFFF;
+}
+
+.blog1-custom-ro .blog1-custom-button button{
+    padding: 20px;
+    background-color: #FFFFFF;
+    color: #0074D9;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    border: 0;
+    border-radius:5px ;
+}
+
+.blog1-product-section-ul {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
+
+
+
 
 /* Small mobile devices */
 @media only screen and (max-width: 480px) {
