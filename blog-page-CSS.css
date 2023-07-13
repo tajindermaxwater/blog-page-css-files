@@ -210,14 +210,12 @@ p{
   }
 
  .blog1-li-section ul li::before {
-    content: "•"; /* Add your desired bullet point symbol */
-    color: #6BB4FD; /* Set the color to your desired value */
+    content: "•"; 
+    color: #6BB4FD; 
     display: inline-block;
     width: 1em;
-    margin-left: 1em;
-    margin-right: 1em;
+    
   }
-
   .blog1-li-section ul li {
     margin-bottom: 15px;
   }
