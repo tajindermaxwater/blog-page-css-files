@@ -235,14 +235,17 @@ p{
     align-items: center;
     justify-content: space-around;;
     background-color:#0074D9;
-    padding: 20px 0;
+    padding: 10px 0;
     border: 0;
     border-radius: 5px;
+    gap: 20px;
     
 }
 .blog1-custom-ro-content {
     flex: 2;
+    padding-left: 25px;
 }
+
 
 .blog1-custom-button{
     flex: 1;
