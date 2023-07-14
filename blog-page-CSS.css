@@ -279,7 +279,6 @@ p{
 
 .blog1-information {
     display: flex;
-    align-items: center;
     justify-content: center;
     gap: 20px;
     line-height: 1.5;
@@ -289,6 +288,7 @@ p{
     background-color:#E8F2FC;
     padding: 20px;
     border-radius: 5px;
+    flex: 1;
 }
 
 
@@ -302,6 +302,7 @@ p{
     background-color:#E8F2FC;
     padding: 20px;
     border-radius: 5px;
+    flex: 1;
 }
 
 
