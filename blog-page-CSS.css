@@ -332,6 +332,39 @@ p{
 
 
 /* Small mobile devices */
+@media only screen and (max-width: 480px) {
+    .allBlogElements {
+        grid-template-columns: auto;
+    }
+ 
+    .blogContent {
+       width: 325px;
+}
+
+.blog1-aboutsection{
+    flex-direction: column;
+}
+
+.blog1-custom-ro {
+    flex-direction: column;
+}
+
+.blog1-product-section-ul {
+    grid-template-columns: auto auto;
+    gap: 10px
+}
+
+.blog1-information {
+   flex-direction: column;
+}
+
+.blog1-custom-ro-content {
+    margin-right: 20px;
+  }
+
+}
+
+/* Medium-sized mobile devices */
 @media only screen and (min-width: 481px) and (max-width: 767px) {
     .allBlogElements {
         grid-template-columns: auto;
@@ -365,7 +398,48 @@ p{
 }
 
 /* Large mobile devices */
-@media only screen and (min-width: 768px) and (max-width: 1050px) {
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+    .allBlogElements {
+        grid-template-columns: auto;
+    }
+ 
+    .blogContent {
+       width: 540px;
+}
+
+.blog1-aboutsection{
+    flex-direction: column;
+}
+
+.blog1-custom-ro {
+    flex-direction: column;
+}
+
+.blog1-product-section-ul {
+    grid-template-columns: auto auto;
+    gap: 5px;
+    padding-left: 0;
+
+}
+
+.blog1-information {
+   flex-direction: column;
+}
+
+.blog1-aboutsection-image img {
+    max-width: 100%;
+   
+    /* width: 450px;
+    height: 420px; */
+}
+
+.blog1-custom-ro-content {
+  margin-right: 25px;
+}
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1439px) {
     .allBlogElements {
         grid-template-columns: auto;
     }
@@ -391,49 +465,15 @@ p{
    flex-direction: column;
 }
 
-.blog1-aboutsection-image img {
-/*     width: 450px;
-    height: 420px; */
-    max-width: 100%;
-}
-
-.blog1-custom-ro-content {
-  margin-right: 25px;
-}
-
-}
-
-@media only screen and (min-width: 1051px) and (max-width: 1250px) {
-    .allBlogElements {
-        grid-template-columns: auto;
-    }
- 
-    .blogContent {
-       width: 540px;
-}
-
-.blog1-aboutsection{
-    flex-direction: column;
-}
-
-.blog1-custom-ro {
-    flex-direction: column;
-}
-
-.blog1-product-section-ul {
-    grid-template-columns: auto auto;
-    gap: 5px;
-    padding-left: 0;
-}
-
-.blog1-information {
-   flex-direction: column;
-}
-
 .blog1-custom-ro-content {
     margin-right: 20px;
   }
 
 }
 
+
+
+@media (min-width: 1440px) and (max-width: 1679px){
+    
+}
 
