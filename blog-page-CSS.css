@@ -271,6 +271,12 @@ p{
     border-radius:5px ;
 }
 
+.blog1-product-section{
+    max-width: 100%;
+    margin: 0 auto;
+    padding-left: 0;
+}
+
 .blog1-product-section-ul {
     display: grid;
     grid-template-columns: auto auto auto;
