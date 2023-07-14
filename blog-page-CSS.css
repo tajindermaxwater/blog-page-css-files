@@ -277,6 +277,56 @@ p{
 }
 
 
+.blog1-information {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    line-height: 1.5;
+}
+
+.blog1-before-start {
+    background-color:#E8F2FC;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+
+.blog1-before-start ul li{
+    list-style-type: decimal;
+    margin-left: 30px;
+    padding-bottom: 10px;
+}
+
+.blog1-ro-membrane {
+    background-color:#E8F2FC;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+
+.blog1-ro-membrane ul li{
+    list-style-type: decimal;
+    margin-left: 30px;
+    padding-bottom: 10px;
+}
+
+
+.blog1-changing-inline-filters {
+    background-color:#E8F2FC;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+
+.blog1-changing-inline-filters ul li{
+    list-style-type: decimal;
+    margin-left: 30px;
+    padding-bottom: 10px;
+}
+
+
 
 
 
