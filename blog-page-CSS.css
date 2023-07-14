@@ -438,7 +438,7 @@ p{
 }
 
 }
-
+/* --------------Small laptops----------------------- */
 @media only screen and (min-width: 1200px) and (max-width: 1439px) {
     .allBlogElements {
         grid-template-columns: auto;
@@ -470,10 +470,13 @@ p{
   }
 
 }
-
-
-
+/* -----------Medium-sized laptops------------------ */
 @media (min-width: 1440px) and (max-width: 1679px){
+    
+}
+
+/* ----------------Large laptops------------------- */
+@media (min-width: 1680px) and (max-width: 1919px){
     
 }
 
