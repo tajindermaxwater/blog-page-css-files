@@ -476,13 +476,25 @@ p{
   }
 
 }
+
 /* -----------Medium-sized laptops------------------ */
+
 @media (min-width: 1440px) and (max-width: 1679px){
-    
+    .blog1-product-section-ul {
+        
+        grid-template-columns: auto auto;
+    }
+
 }
 
 /* ----------------Large laptops------------------- */
+
 @media (min-width: 1680px) and (max-width: 1919px){
-    
+
+    .blog1-product-section-ul {
+        
+        grid-template-columns: auto auto;
+    }
+
 }
 
