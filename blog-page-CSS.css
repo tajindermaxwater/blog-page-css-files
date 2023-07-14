@@ -392,8 +392,9 @@ p{
 }
 
 .blog1-aboutsection-image img {
-    width: 450px;
-    height: 420px;
+/*     width: 450px;
+    height: 420px; */
+    max-width: 100%;
 }
 
 .blog1-custom-ro-content {
