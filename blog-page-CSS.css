@@ -424,6 +424,14 @@ p{
     margin-right: 20px;
   }
 
+    /* BLOG 2 */
+
+
+.blog2-installation-img-section1 {
+   grid-template-columns: auto auto;
+   
+}
+
 }
 
 
@@ -457,6 +465,14 @@ p{
 .blog1-custom-ro-content {
     margin-right: 20px;
   }
+
+    /* BLOG 2 */
+
+
+.blog2-installation-img-section1 {
+   grid-template-columns: auto auto;
+   
+}
 
 }
 
@@ -499,6 +515,13 @@ p{
 .blog1-custom-ro-content {
   margin-right: 25px;
 }
+    /* BLOG 2 */
+
+
+.blog2-installation-img-section1 {
+   grid-template-columns: auto auto;
+   
+}
 
 }
 /* --------------Small laptops----------------------- */
@@ -531,6 +554,14 @@ p{
 .blog1-custom-ro-content {
     margin-right: 20px;
   }
+
+    /* BLOG 2 */
+
+
+.blog2-installation-img-section1 {
+   grid-template-columns: auto auto;
+   
+}
 
 }
 
