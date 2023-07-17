@@ -377,6 +377,12 @@ p{
     max-width: 100%;
 }
 
+.blog2-installation-img-section2{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+   
+}
 
 
 
