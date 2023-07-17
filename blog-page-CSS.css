@@ -369,7 +369,13 @@ p{
    
 }
 
+.blog2-connection-image img {
+    max-width: 100%;
+}
 
+.blog2-connecting-standard img{
+    max-width: 100%;
+}
 
 
 
