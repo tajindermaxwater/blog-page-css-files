@@ -394,6 +394,25 @@ p{
     max-width: 100%;
 }
 
+.blog4-container {
+    max-width: 100%;
+}
+
+.blog4-section1-list ul li{
+    list-style-type: disc;
+    line-height: 1.5;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+
+.blog4-section2-info{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    gap: 15px;
+    margin-top: 15px;
+    max-width: 100%;
+}
 
 
 /* Small mobile devices */
