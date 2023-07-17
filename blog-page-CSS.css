@@ -436,6 +436,15 @@ p{
     
  }
 
+     .blog2-prepare-connection {
+    flex-direction: column;
+ }
+
+
+ .blog2-connecting-standard {
+    flex-direction: column;
+ }
+
 }
 
 
@@ -480,6 +489,15 @@ p{
      .blog2-installation-img-section2 {
     grid-template-columns: auto auto;
     
+ }
+
+     .blog2-prepare-connection {
+    flex-direction: column;
+ }
+
+
+ .blog2-connecting-standard {
+    flex-direction: column;
  }
 
 }
@@ -533,6 +551,15 @@ p{
      .blog2-installation-img-section2 {
     grid-template-columns: auto auto;
     
+ }
+
+     .blog2-prepare-connection {
+    flex-direction: column;
+ }
+
+
+ .blog2-connecting-standard {
+    flex-direction: column;
  }
 
 }
