@@ -401,6 +401,7 @@ p{
 .blog4-section1-list ul li{
     list-style-type: disc;
     line-height: 1.5;
+    font-size: 15px;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;
 }
@@ -413,6 +414,11 @@ p{
     margin-top: 15px; */
     max-width: 100%;
 }
+
+blog4-section2-image img{
+    max-width: 100%;
+}
+
 
 
 /* Small mobile devices */
@@ -467,6 +473,8 @@ p{
     flex-direction: column;
  }
 
+
+    
 }
 
 
