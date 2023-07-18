@@ -448,8 +448,6 @@ p{
     color: #616161;
 }
 
-
-
 /* BLOG 6 CSS Start HERE  */
 .blog6-container{
     max-width: 100%;
@@ -467,6 +465,39 @@ p{
     max-width: 100%;
 
 }
+
+/* BLOG 7 CSS Start Here */
+.blog7-container {
+    max-width: 100%;
+}
+
+.blog7-container h2 {
+    font-size: 18px;
+    color: #333333;
+    font-weight: 500;
+}
+
+.blog7-container h3 {
+    font-size: 15px;
+    color: #333333;
+    font-weight: 700;
+    margin-bottom: 0;
+    line-height: 0;
+}
+
+.blog7-container p {
+    font-size: 15px;
+    color: #616161;
+    font-weight: 400;
+}
+
+.blog7-bottom-image{
+    max-width: 100%;
+}
+
+
+
+
 
 
 /* Small mobile devices */
