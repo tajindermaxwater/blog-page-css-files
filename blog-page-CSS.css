@@ -439,6 +439,8 @@ p{
 .blog5-container h3{
     font-size: 15px;
     color: #333333;
+    margin-bottom: 0;
+    line-height: 0;
 }
 
 .blog5-container p{
