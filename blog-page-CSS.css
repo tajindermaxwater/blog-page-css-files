@@ -521,6 +521,10 @@ p{
     flex-direction: column;
  }
 
+    .blog6-product-section {
+    grid-template-columns: auto;
+    
+}
 
     
 }
@@ -577,6 +581,11 @@ p{
  .blog2-connecting-standard {
     flex-direction: column;
  }
+
+        .blog6-product-section {
+    grid-template-columns: auto;
+    
+}
 
 }
 
@@ -640,6 +649,11 @@ p{
     flex-direction: column;
  }
 
+        .blog6-product-section {
+    grid-template-columns: auto;
+    
+}
+
 }
 /* --------------Small laptops----------------------- */
 @media only screen and (min-width: 1200px) and (max-width: 1439px) {
@@ -683,6 +697,11 @@ p{
     grid-template-columns: auto auto;
     
  }
+
+        .blog6-product-section {
+    grid-template-columns: auto;
+    
+}
 
 }
 
