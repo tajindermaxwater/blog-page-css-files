@@ -421,6 +421,31 @@ p{
 
 
 
+
+
+
+
+
+
+.blog5-container {
+    max-width: 100%;
+}
+
+.blog5-container h2{
+    font-size: 18px;
+    color: #333333;
+}
+
+.blog5-container h3{
+    font-size: 15px;
+    color: #333333;
+}
+
+.blog5-container p{
+    font-size: 15px;
+    color: #616161;
+}
+
 /* Small mobile devices */
 @media only screen and (max-width: 480px) {
     .allBlogElements {
