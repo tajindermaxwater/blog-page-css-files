@@ -448,6 +448,21 @@ p{
     color: #616161;
 }
 
+
+
+/* BLOG 6 CSS Start HERE  */
+.blog6-container{
+    max-width: 100%;
+}
+
+.blog6-product-section {
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+
+
 /* Small mobile devices */
 @media only screen and (max-width: 480px) {
     .allBlogElements {
