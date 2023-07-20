@@ -495,7 +495,28 @@ p{
     max-width: 100%;
 }
 
+/* BLOG 10 CSS Start Here */
 
+.blog10-container {
+    max-width: 100%;
+}
+
+.blog10-section2-details{
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+
+}
+
+.blog10-section4-membranes{
+    max-width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 15px;
+}
 
 
 
