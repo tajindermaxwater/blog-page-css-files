@@ -514,6 +514,10 @@ p{
     flex: 1;
 }
 
+.blog10-section2-image img{
+    max-width: 100%;
+}
+
 .blog10-section2-info{
     flex:1
 }
