@@ -510,6 +510,14 @@ p{
 
 }
 
+.blog10-section2-image{
+    flex: 1;
+}
+
+.blog10-section2-info{
+    flex:1
+}
+
 .blog10-section4-membranes{
     max-width: 100%;
     display: flex;
