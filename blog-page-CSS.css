@@ -602,6 +602,14 @@ p{
     
 }
 
+/*     Blog 10 */
+    .blog10-section2-details {
+    flex-direction: column;
+}
+
+.blog10-section4-membranes {
+   flex-direction: column;
+}
     
 }
 
@@ -662,6 +670,17 @@ p{
     grid-template-columns: auto;
     
 }
+
+    /*     Blog 10 */
+    .blog10-section2-details {
+    flex-direction: column;
+}
+
+.blog10-section4-membranes {
+   flex-direction: column;
+}
+    
+
 
 }
 
@@ -729,6 +748,12 @@ p{
     grid-template-columns: auto;
     
 }
+
+    /*     Blog 10 */
+    .blog10-section2-details {
+    flex-direction: column;
+}
+
 
 }
 /* --------------Small laptops----------------------- */
