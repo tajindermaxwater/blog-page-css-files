@@ -535,6 +535,14 @@ p{
     max-width: 100%;
 }
 
+.blog10-container .blog10-section3-content h4 {
+    font-size: 15px;
+    color: #333333;
+    font-weight: 700;
+    margin-bottom: 0;
+    line-height: 0;
+}
+
 
 
 /* Small mobile devices */
