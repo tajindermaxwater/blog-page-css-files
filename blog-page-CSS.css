@@ -621,6 +621,13 @@ p{
 .blog10-section4-membranes {
    flex-direction: column;
 }
+
+    /* Blog 14 CSS start here */
+
+.blog14-section3-gauges-ul{
+   grid-template-columns: auto auto;
+    
+ }
     
 }
 
@@ -690,7 +697,13 @@ p{
 .blog10-section4-membranes {
    flex-direction: column;
 }
+
+    /* Blog 14 CSS start here */
+
+.blog14-section3-gauges-ul{
+   grid-template-columns: auto auto;
     
+ }
 
 
 }
