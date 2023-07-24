@@ -544,6 +544,17 @@ p{
 }
 
 
+/* Blog 14 CSS start here */
+
+ .blog14-section3-gauges-ul{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+ }
+
+ .blog14-section3-gauges-ul img{
+    max-width: 100%;
+ }
 
 /* Small mobile devices */
 @media only screen and (max-width: 480px) {
