@@ -81,15 +81,15 @@ p{
    
 }
 
-/* .blogContent {
- /* width: 100%; 
+ .blogContent {
+ /* width: 100%; */
     width: 540px;
     margin: 0 auto;
-} */
+} 
 
-.allBlogElements .testclassA .blogContent img {
+/* .allBlogElements .testclassA .blogContent img {
     max-width: 100%;
-}
+} */
 
 .blogContentA {
    padding: 0 10px;
