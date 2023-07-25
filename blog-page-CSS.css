@@ -81,11 +81,11 @@ p{
    
 }
 
-.blogContent {
+/* .blogContent {
  /* width: 100%; */
     width: 540px;
     margin: 0 auto;
-}
+} */
 
 .allBlogElements .testclassA .blogContent img {
     max-width: 100%;
